@@ -1,0 +1,4 @@
+#ignore the .venv file, will not be added in repositories
+.venv 
+.env
+__pycache__
